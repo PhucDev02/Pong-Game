@@ -1,0 +1,24 @@
+﻿  Main.cpp
+D:\OOP PROPTIT\testSFML\Main.cpp(31,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\OOP PROPTIT\testSFML\Main.cpp(31,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\OOP PROPTIT\testSFML\Main.cpp(32,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OOP PROPTIT\testSFML\Main.cpp(106,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\OOP PROPTIT\testSFML\Main.cpp(106,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\OOP PROPTIT\testSFML\Main.cpp(108,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  testSFML.vcxproj -> D:\OOP PROPTIT\testSFML\x64\Debug\testSFML.exe

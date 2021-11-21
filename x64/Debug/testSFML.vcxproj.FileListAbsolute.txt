@@ -1,0 +1,2 @@
+D:\OOP PROPTIT\testSFML\x64\Debug\testSFML.exe
+D:\OOP PROPTIT\testSFML\x64\Debug\testSFML.pdb
